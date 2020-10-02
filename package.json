@@ -1,0 +1,24 @@
+{
+  "name": "client-review",
+  "version": "1.0.0",
+  "description": "Infuzex client review ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codernuub/client-review.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codernuub/client-review/issues"
+  },
+  "homepage": "https://github.com/codernuub/client-review#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7",
+    "socket.io": "^2.3.0"
+  }
+}
