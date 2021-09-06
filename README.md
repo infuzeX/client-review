@@ -1,4 +1,4 @@
-![Infuzex logo](insert/logo/url/here)
+![Infuzex logo](https://infuzex.in/images/logo/infuzex-logo-tp-2.png)
 >Note: jiske pss bhi infuzex ka logo hai wo directory ke root folder dalke uska link upr dede
 
 ## 1. client-review Features
