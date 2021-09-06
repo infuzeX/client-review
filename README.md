@@ -1,9 +1,9 @@
 ![Infuzex logo](https://infuzex.in/images/logo/infuzex-logo-tp-2.png)
 >Note: jiske pss bhi infuzex ka logo hai wo directory ke root folder dalke uska link upr dede
 
-## 1. client-review Features
+## 1. Client-Review System Features
 **1. Get Review from clients**
-**2. Contact Infuzex(infuzex.in) for help**
+**2. Contact Infuzex Ventures Pvt. Ltd.(infuzex.in) for help**
 **3. Hire freelancer**
 
 ## 2. client review folder structure
