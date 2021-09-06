@@ -3,7 +3,7 @@
 
 ## 1. client-review Features
 **1. Get Review from clients**
-**2. Contact Infuzex for help**
+**2. Contact Infuzex(infuzex.in) for help**
 **3. Hire freelancer**
 
 ## 2. client review folder structure
@@ -42,6 +42,7 @@ client-review
 # 4. client Review contibutors profiles
 >Note: please add your github username and link below
 1. [codernuub](https://github.com/codernuub)
+2. [jddalmia](https://github.com/jddalmia)
 
 
 
